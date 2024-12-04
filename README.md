@@ -1,4 +1,4 @@
-![omercelikceng's Stats](https://github-readme-stats.vercel.app/api?username=omercelikceng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=omercelikceng)](https://github.com/FajarKim/github-readme-profile)
 
 ![omercelikceng's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omercelikceng&theme=dracula&hide_border=false)
 
