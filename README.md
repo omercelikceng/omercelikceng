@@ -1,4 +1,4 @@
-![omercelikceng's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omercelikceng&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![omercelikceng's Stats](https://github-readme-stats.vercel.app/api?username=omercelikceng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![omercelikceng's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omercelikceng&theme=dracula&hide_border=false)
 
